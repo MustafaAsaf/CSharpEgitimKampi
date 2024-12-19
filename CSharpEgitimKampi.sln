@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubjects", "01_MainS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Degiskenler_VeriGirisleri", "02_Degiskenler_VeriGirisleri\02_Degiskenler_VeriGirisleri.csproj", "{8E3F6420-54B5-42F9-9B16-925A59895B05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_KararYapilariveDonguler", "03_KararYapilariveDonguler\03_KararYapilariveDonguler.csproj", "{1F24CE29-FEC4-4231-A72C-EAB77344056C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8E3F6420-54B5-42F9-9B16-925A59895B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3F6420-54B5-42F9-9B16-925A59895B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3F6420-54B5-42F9-9B16-925A59895B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F24CE29-FEC4-4231-A72C-EAB77344056C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F24CE29-FEC4-4231-A72C-EAB77344056C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F24CE29-FEC4-4231-A72C-EAB77344056C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F24CE29-FEC4-4231-A72C-EAB77344056C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
